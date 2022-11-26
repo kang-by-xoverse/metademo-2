@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{A13CE147-917B-D4E8-6C2C-B675EA487443}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/the stuff/gun.cs">
+    <Files>
+      <File FileName="Assets/balance.cs" Line="17" Column="36" />
+      <File FileName="Assets/walk.cs" Line="45" Column="18" />
+      <File FileName="Assets/camera.cs" Line="10" Column="30" />
+      <File FileName="Assets/the stuff/playerGun.cs" Line="1" Column="1" />
+      <File FileName="Assets/the stuff/gun.cs" Line="45" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1e062376-fefe-4563-9d16-4dcd1646906e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
